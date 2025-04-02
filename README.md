@@ -11,7 +11,7 @@ A lightweight Python project that simulates a basic in-memory file system
 
 ## Design
 
-- Fully memory-resident; no persistent storage
+- No persistent storage
 
 ## Usage
 
@@ -23,10 +23,10 @@ Run the script and enter commands interactively:
 ### Example
 
 
-mkdir projects
-cd projects
-touch notes.txt
-ls
+- `mkdir projects`
+- `cd projects`
+- `touch notes.txt`
+- `ls`
 
 ## Notes
 
