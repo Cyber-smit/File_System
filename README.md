@@ -19,19 +19,12 @@ Run the script and enter commands interactively:
 
 `python file_system.py`
 
-
 ### Example
-
 
 - `mkdir projects`
 - `cd projects`
 - `touch notes.txt`
 - `ls`
-
-## Notes
-
-- Non-persistent (data lost on exit)
-- No file contents or permissions (yet)
 
 ## Author
 
